@@ -12,4 +12,8 @@ The map on the right is a dasymetric map which redistributes raw counts of recor
 
 There is some **seriously** flawed research going on right now which attempts to draw conclusions about how COVID spreads by simply overlying data on top of raw case counts by zip code. Please be aware of this!
 
-![alt text](assets/covid_zipcode_hexagon_wgeary.png "Title")
+![alt text](assets/covid_zipcode_hexagon_wgeary.png "COVID Cases")
+
+COVID case counts should be accompanied by data on the total number of tests administered. It is flawed to draw conclusions about the spread of COVID without accounting for the number of tests administered. And it is flawed to aggregate this data by zip code.
+
+![alt text](assets/covid_cases_tests_zipcode_hexagon_wgeary.png "COVID Cases and Tests")
