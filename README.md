@@ -1,5 +1,7 @@
 # Dasymetric Map of COVID Cases in New York City
 
+Follow some conversation around this on [Twitter](https://twitter.com/wgeary/status/1252636419111165953?s=20).
+
 STOP mapping COVID case counts by zip code! 🙅‍♀️🚫
 
 Zip codes come in varying shapes and sizes, introducing bias known as the Modifiable Areal Unit Problem (MAUP).
