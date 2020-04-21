@@ -12,4 +12,4 @@ The map on the right is a dasymetric map which redistributes raw counts of recor
 
 There is some **seriously** flawed research going on right now which attempts to draw conclusions about how COVID spreads by simply overlying data on top of raw case counts by zip code. Please be aware of this!
 
-![alt text](data/covid_zipcode_hexagon_wgeary.png)
+![alt text](assets/covid_zipcode_hexagon_wgeary.png "Title")
