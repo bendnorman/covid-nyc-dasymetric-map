@@ -18,4 +18,4 @@ There is some **seriously** flawed research going on right now which attempts to
 
 COVID case counts should be accompanied by data on the total number of tests administered. It is flawed to draw conclusions about the spread of COVID without accounting for the number of tests administered. And it is flawed to aggregate this data by zip code.
 
-![alt text](assets/covid_cases_tests_zipcode_hexagon_wgeary.png "COVID Cases and Tests")
+![alt text](assets/comparison_table_zip_hex_smoothed.png "COVID Cases and Tests")
